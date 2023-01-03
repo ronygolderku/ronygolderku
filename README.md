@@ -10,7 +10,7 @@ Md Rony Golder, a motivated and an ambitious Oceanographer, has recently complet
 
 ## Skills ↑
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://ronygolderku.netlify.app/)
-[![QGIS Badge](https://img.shields.io/badge/qgis-3.16_Hannover_-93b023?&style=for-the-badge&logo=qgis&logoColor=white)](https://ronygolderku.netlify.app/)
+[![QGIS Badge](https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white)](https://ronygolderku.netlify.app/)
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://ronygolderku.netlify.app/)
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://ronygolderku.netlify.app/)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://ronygolderku.netlify.app/)
@@ -21,3 +21,5 @@ Md Rony Golder, a motivated and an ambitious Oceanographer, has recently complet
 
 
 <!-- &show_icons=true -->
+
+[![Rony's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ronygolderku&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
