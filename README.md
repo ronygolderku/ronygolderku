@@ -1,7 +1,7 @@
 
 [![Twitter Badge](https://img.shields.io/twitter/follow/rony_golderku?style=social)](https://twitter.com/rony_golderku)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ronygolderku)
-[![Researchgate Badge](http://www.researchgate.net/favicon.ico)](https://www.researchgate.net/profile/Md-Golder)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Md-Golder)
 [![LinkedIn Badge](https://img.shields.io/badge/connect-LinkedIn-blue)](https://www.linkedin.com/in/ronygolder/)
 --
 ### Hi there 👋
