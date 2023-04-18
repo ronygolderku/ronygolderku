@@ -1,10 +1,14 @@
+# Md Rony Golder
 
+### Fisheries, Ocean Optics, Ocean Color Remote Sensing, Earth Systems, Oceanography
+
+![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-6863-139X&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-6863-139X)
+[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com.au/citations?user=yXg7upIAAAAJ&hl=en)
 [![Twitter Badge](https://img.shields.io/twitter/follow/rony_golderku?style=social)](https://twitter.com/rony_golderku)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ronygolderku)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Md-Golder)
 [![LinkedIn Badge](https://img.shields.io/badge/connect-LinkedIn-blue)](https://www.linkedin.com/in/ronygolder/)
 --
-### Hi there 👋
+### Short Biography
 
 I am currently a doctorate researcher in the Curtin's Remote Sensing and Satellite Research Group [(RSSRG)](http://rssrg.org/people/students-and-interns.html) under the School of Earth and Planetary science at [Curtin university](https://www.curtin.edu.au/about/learning-teaching/science-engineering/school-of-earth-and-planetary-sciences/), Australia. I did my BSc degree in Fisheries (Honours) from the Fisheries and Marine Resource Technology (FMRT) Discipline at [Khulna University](https://ku.ac.bd/), Bangladesh, in 2018. Later, I completed my MS degree in Coastal and Marine Science (Master's) from the same university in 2020. During my master's thesis, I received the National Science and Technology (NST) fellowship from the [Ministry of Science and Technology](https://most.gov.bd/), Government of Bangladesh. Besides, I was awarded the prestigious DAAD Scholarship to pursue my master's in Marine Biology at the University of Bremen, Germany. I was also the [2nd-place](https://www.youtube.com/watch?v=5_gvn1NMbo0) winner at the [Jupyter Notebook Competition](https://www.eumetsat.int/features/new-jupyter-notebook-competition) led by EUMETSAT, a European Agency in charge of operational satellite missions. My research mainly focuses on ocean color remote sensing, coastal zone management, marine ecology, and biological oceanography.
 
@@ -16,8 +20,8 @@ I am currently a doctorate researcher in the Curtin's Remote Sensing and Satelli
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://ronygolderku.netlify.app/)
 [![CSS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://ronygolderku.netlify.app/)
 -
-![github stats](https://github-readme-stats.vercel.app/api?username=ronygolderku&theme=blue-green&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronygolderku&theme=blue-green)
+![github stats](https://github-readme-stats.vercel.app/api?username=ronygolderku&show_icons=true&&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronygolderku)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- &show_icons=true -->
