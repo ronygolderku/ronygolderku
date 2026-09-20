@@ -1,29 +1,60 @@
-# Md Rony Golder
+### Hi everyone 👋
 
-### Fisheries, Ocean Optics, Ocean Color Remote Sensing, Earth Systems, Oceanography
+I am a Research Fellow at [The University of Western Australia](https://www.uwa.edu.au/) who uses *ocean color remote sensing* and *numerical ecosystem modelling* to study coastal water quality and marine biogeochemistry.
 
-![pronouns](https://img.shields.io/static/v1?label=pronouns&message=he/him&color=red&style=flat-square)
-[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-6863-139X&color=green&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-6863-139X)
-[![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com.au/citations?user=yXg7upIAAAAJ&hl=en)
-[![Twitter Badge](https://img.shields.io/twitter/follow/rony_golderku?style=social)](https://twitter.com/rony_golderku)
-[![LinkedIn Badge](https://img.shields.io/badge/connect-LinkedIn-blue)](https://www.linkedin.com/in/ronygolder/)
---
-### Short Biography
+[![Website](https://img.shields.io/badge/🌐_Website-ronygolder.me-0077B5?style=flat-square)](https://ronygolder.me)
+[![ORCID](https://img.shields.io/static/v1?label=ORCID&message=0000-0002-6863-139X&color=A6CE39&style=flat-square&logo=orcid)](https://orcid.org/0000-0002-6863-139X)
+[![Google Scholar](https://img.shields.io/static/v1?label=Google%20Scholar&message=Citations:112&color=4285F4&style=flat-square&logo=google-scholar)](https://scholar.google.com.au/citations?user=yXg7upIAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ronygolder/)
 
-I am currently a doctorate researcher in the Curtin's Remote Sensing and Satellite Research Group [(RSSRG)](http://rssrg.org/people/students-and-interns.html) under the School of Earth and Planetary science at [Curtin university](https://www.curtin.edu.au/about/learning-teaching/science-engineering/school-of-earth-and-planetary-sciences/), Australia. I did my BSc degree in Fisheries (Honours) from the Fisheries and Marine Resource Technology (FMRT) Discipline at [Khulna University](https://ku.ac.bd/), Bangladesh, in 2018. Later, I completed my MS degree in Coastal and Marine Science (Master's) from the same university in 2020. During my master's thesis, I received the National Science and Technology (NST) fellowship from the [Ministry of Science and Technology](https://most.gov.bd/), Government of Bangladesh. Besides, I was awarded the prestigious DAAD Scholarship to pursue my master's in Marine Biology at the University of Bremen, Germany. I was also the [2nd-place](https://www.youtube.com/watch?v=5_gvn1NMbo0) winner at the [Jupyter Notebook Competition](https://www.eumetsat.int/features/new-jupyter-notebook-competition) led by EUMETSAT, a European Agency in charge of operational satellite missions. My research mainly focuses on ocean color remote sensing, coastal zone management, marine ecology, and biological oceanography.
+## Research
 
-## Skills ↑
-[![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://ronygolderku.netlify.app/)
-[![QGIS Badge](https://img.shields.io/badge/Qgis-589632.svg?style=for-the-badge&logo=Qgis&logoColor=white)](https://ronygolderku.netlify.app/)
-[![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://ronygolderku.netlify.app/)
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://ronygolderku.netlify.app/)
-[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://ronygolderku.netlify.app/)
-[![CSS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://ronygolderku.netlify.app/)
--
-![github stats](https://github-readme-stats.vercel.app/api?username=ronygolderku&show_icons=true&&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronygolderku)](https://github.com/anuraghazra/github-readme-stats)
+Current research :hourglass_flowing_sand:: 
 
+* Leading coastal water quality assessment for **Darwin Harbour** using satellite Earth observation, in-situ data, and hydrodynamic-biogeochemical models (TUFLOW FV, AED)
+* Developing automated data pipelines and validation frameworks for numerical ecosystem models against satellite-derived water quality indicators
+* Investigating spatial-temporal dynamics of nutrients, chlorophyll-*a*, turbidity, and dissolved oxygen for ecosystem health reporting
 
-<!-- &show_icons=true -->
+Past research :zzz:: 
 
-[![Rony's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ronygolderku&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+* PhD research on [long-term phytoplankton dynamics in the Southern Ocean](https://github.com/ronygolderku) using multi-decadal satellite time-series ([GRL paper](https://doi.org/10.1029/2026GL111234), [Elementa paper](https://doi.org/10.1525/elementa.2024.00077))
+* Contributing to the [Cockburn Sound Integrated Ecosystem Model](https://doi.org/10.26182/tp2x-t920) for environmental impact assessment
+* Analyzing [particulate organic carbon dynamics in the Bay of Bengal](https://doi.org/10.1016/j.envadv.2021.100124) using satellite ocean color
+
+Other research interests include:
+* bio-optical algorithm development for coastal waters
+* climate driver attribution on phytoplankton variability
+* machine learning applications in marine environmental monitoring
+* integration of satellite remote sensing with numerical hydrodynamic models
+
+## Education & Qualifications
+
+* **PhD in Spatial Science** – Curtin University, Australia (2026)  
+  *Thesis: Long-term changes of phytoplankton in the Southern Ocean*
+
+* **MSc in Coastal and Marine Science** – Khulna University, Bangladesh (2020)  
+  *First Class 1st, CGPA: 3.83/4.00*
+
+* **BSc (Hons) in Fisheries** – Khulna University, Bangladesh (2018)  
+  *First Class 2nd, CGPA: 3.80/4.00*
+
+## Selected Awards
+
+* **ACEAS Impact Project Grant** (2026) – Content Lead & PI, A$56,112
+* **Curtin International Postgraduate Research Scholarship** (2022–2026) – ~A$165,000
+* **WEkEO Jupyter Notebook Prize** (2022) – 2nd Place, EUMETSAT European Competition (€1,500)
+* **AGU Student Travel Grant** (2024) – American Geophysical Union
+
+## Code
+
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronygolderku&theme=default)
+
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronygolderku&theme=default)
+
+![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronygolderku&theme=default)
+
+---
+
+📫 **Contact:** [mdrony.golder@uwa.edu.au](mailto:mdrony.golder@uwa.edu.au) | [ronygolder.me](https://ronygolder.me) | Perth, Western Australia
+
+*Open to research collaborations, consulting projects, and speaking engagements*
